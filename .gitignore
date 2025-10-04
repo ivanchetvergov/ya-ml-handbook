@@ -1,6 +1,6 @@
 data/
 tables/
-
+catboost_info/
 *.csv.zip
 *.csv
 
